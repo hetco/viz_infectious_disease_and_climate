@@ -1,0 +1,11 @@
+.score {
+	font-size:4em;
+	color:#999999;
+}
+
+.papers {
+	border-style: solid;
+	border-color:#999;
+	border-width:1px;
+	padding:10px;
+}

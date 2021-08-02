@@ -1,0 +1,16 @@
+.node text {
+  pointer-events: none;
+  font: 10px sans-serif;
+}
+
+#info_overlay {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    padding:5px;
+    background-color:white;
+    background: rgba(255,255,255,0.9);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    max-width:250px;
+}
